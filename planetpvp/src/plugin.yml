@@ -1,0 +1,16 @@
+name: Planetpvp
+version: 0.1
+main: fr.nc333.planetpvp.Vote
+commands:
+    vote:
+        description: Affiche le vote en cours
+        usage: /vote
+    voteoui:
+        description: Vous fait voter la reponse positive
+        usage: /voteoui
+    votenon:
+        description: Vous fait voter la reponse negative
+        usage: /votenon
+    votetest:
+        description: Vous fait voter la reponse negative
+        usage: /<command>
